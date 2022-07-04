@@ -1,7 +1,7 @@
 # Tic-Tac-Toe-Game
 This is Tic-Tac-Toe Game developed using Java programming language. 
 
- In this project I made a Tic-Tac-Toe using Java Programming Language.
+ In this project I have made a Tic-Tac-Toe using Java Programming Language.
  
 – We can play this game with another person as well as CPU which makes it equally enjoyable when we are alone.
 
